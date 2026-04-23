@@ -1,7 +1,6 @@
 # Chalk
 
-```mermaid
-    graph TD
+```graph TD
     CEO --> Manager1
     CEO --> Manager2
     Manager1 --> Employee1
